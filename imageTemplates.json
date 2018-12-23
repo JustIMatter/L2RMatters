@@ -1,0 +1,57 @@
+{
+    "templates":[
+        {
+        "normalIcons": [
+            {
+                "name": "inventory",
+                "location": "UI-Templates/Icons/Icon-Inventory.png"
+            },
+            {
+                "name": "dailyActivities",
+                "location": "UI-Templates/Icons/Icon-Daily-Activities.png"
+            },
+            {
+                "name": "quests",
+                "location": "UI-Templates/Icons/Icon-Quests"
+            },
+            {
+                "name": "shop",
+                "location": "UI-Templates/Icons/Icon-Shop.png"
+            }
+        ],
+        "notificationIcons": [
+            {
+                "name": "inventoryNotification",
+                "location": "UI-Templates/Icons/Icon-Notification-Inventory.png"
+            },
+            {
+                "name": "mailNotification",
+                "location": "UI-Templates/Icons/Icon-Notification-Mail.png"
+            },
+            {
+                "name": "menuNotification",
+                "location": "UI-Templates/Icons/Icon-Notifcation-Menu.png"
+            },
+            {
+                "name": "questsNotification",
+                "location": "UI-Templates/Icons/Icon-Notfication-Quests.png"
+            },
+            {
+                "name": "questsIndicator",
+                "location": "UI-Templates/Icons/Indicator-Arrow.png"
+            },
+            {
+                "name": "autoQuesting",
+                "location": "UI-Templates/Icons/Msg-Auto-Questing.png"
+            }
+        ],
+        "Buttons": [
+            {
+                "name": "",
+                "location": "",
+                "type": ""
+            }
+        ]
+        }
+    ]
+}
